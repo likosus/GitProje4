@@ -10,6 +10,8 @@ public class Student {
             System.out.println("Task second Done :)");
         }
 
+        System.out.println("Task Third Done:");
+
     }
 
 }
