@@ -5,6 +5,11 @@ public class Student {
 
         System.out.println("Merhaba 1");
 
+        for (int i = 0; i <4 ; i++) {
+
+            System.out.println("Task second Done :)");
+        }
+
     }
 
 }
